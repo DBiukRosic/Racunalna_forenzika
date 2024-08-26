@@ -1,2 +1,2 @@
-# Racunalna_forenzika
-Repository for college class Računalna forenzika (Computer forensics)
+# Računalna forenzika
+Repozitorij za predmet Računalna forenzika.
